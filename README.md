@@ -1,5 +1,9 @@
 # FatTest
 
+Body fat indicator
+
+<img width="538" alt="Screenshot 2022-06-11 at 09 18 34" src="https://user-images.githubusercontent.com/91250039/173177852-d66f9ec5-bf61-473a-9fbb-09bfd7d473da.png">
+
 Skills Learnt:
 - UISliders
 - Classes and Inherintance
